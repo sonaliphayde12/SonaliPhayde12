@@ -1,4 +1,4 @@
-![MaterHead](https://www.outsystems.com/blog/-/media/images/blog/posts/what-does-a-software-developer-do/what-does-a-software-developer-do_header.png?updated=20220111091839)
+![MaterHead](https://marketplace.canva.com/EAEvZt5s6Fs/1/0/1600w/canva-gray-office-desk-linkedin-banner-R6whMOodyQY.jpg)
 <h1 align="center">Hi 👋, I'm Sonali Phayde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU"
