@@ -1,4 +1,4 @@
-![MaterHead](https://marketplace.canva.com/EAEvZt5s6Fs/1/0/1600w/canva-gray-office-desk-linkedin-banner-R6whMOodyQY.jpg)
+![MaterHead](https://marketplace.canva.com/EAFIddqdjTk/2/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-1PLNOKlL1HU.jpg)
 <h1 align="center">Hi 👋, I'm Sonali Phayde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU"
